@@ -5,7 +5,7 @@ export const PERSONAL_INFO = {
   role: "Business Lead @ Verify Now",
   tagline: "I Help Companies Hire With Confidence, Compliance, and Trust.",
   location: "India",
-  email: "aryanmallick67891@gmail.com",
+  email: "subham.mallick@verifynow.in",
   phone: "+91 8917314369",
   linkedin: "https://www.linkedin.com/in/subham-mallick-aa9b0a88",
   github: "https://github.com/SubhMalllick",
@@ -15,7 +15,7 @@ export const PERSONAL_INFO = {
 };
 
 export const STATISTICS = [
-  { label: "Verify Now Tenure", value: "3.9 Years", unit: "Continuous Growth" },
+  { label: "Verify Now Tenure", value: "4 Years", unit: "Continuous Growth" },
   { label: "Active Key Partnerships", value: "12+", unit: "Enterprise Level" },
   { label: "SLA Adherence Ratio", value: "99.8%", unit: "Guaranteed Turnaround" },
   { label: "Onboarding Scale Speed", value: "40%", unit: "Faster Turnaround" }
