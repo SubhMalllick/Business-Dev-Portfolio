@@ -92,6 +92,6 @@ The compiled output will be generated inside the `/dist` directory.
 ---
 
 ## 📬 Contact & Channels
-*   **Executive Portfolio**: [Click here to view Live Site](https://subhamportfolio-99045299-99c19.web.app/)
+*   **Executive Portfolio**: [Click here to view Live Site](https://subhamneonbizportfolio.vercel.app/)
 *   **LinkedIn**: [Subham Mallick Profile](https://www.linkedin.com/in/subham-mallick-aa9b0a88)
 *   **Business Contact**: [Verify Now Platform](https://verifynow.in)
