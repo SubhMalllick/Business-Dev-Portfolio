@@ -49,6 +49,7 @@ import {
   CLIENTS,
   EDUCATION_ESTABLISHMENTS 
 } from "./data";
+import { Analytics } from '@vercel/analytics/react';
 
 import { CipherClientName } from "./components/CipherClientName";
 import { AnimatedMetric } from "./components/AnimatedMetric";
@@ -1121,6 +1122,7 @@ export default function App() {
         </div>
       </footer>
 
+      <Analytics />
     </div>
   );
 }
